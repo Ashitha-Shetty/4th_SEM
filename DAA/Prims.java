@@ -6,7 +6,7 @@ static int cost[][]; // Cost matrix
 static Scanner scan = new Scanner(System.in);
 public static void main(String[] args) {
 ReadMatrix();
-Prims();
+Prim();
 }
 static void ReadMatrix() {
 int i, j;
@@ -21,7 +21,7 @@ if (cost[i][j] == 0)
 cost[i][j] = 999;
 }
 }
-static void Prims() {
+static void Prim() {
 int visited[] = new int[10];
 int ne = 1, i, j, min, a = 0, b = 0, u = 0, v = 0;
 int mincost = 0;
