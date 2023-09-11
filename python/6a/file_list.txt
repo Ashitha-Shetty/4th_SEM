@@ -1,0 +1,9 @@
+C:\Users\asus\OneDrive\Desktop\PROGRAMS\4th_SEM\python\1a.py
+C:\Users\asus\OneDrive\Desktop\PROGRAMS\4th_SEM\python\1b.py
+C:\Users\asus\OneDrive\Desktop\PROGRAMS\4th_SEM\python\2a.py
+C:\Users\asus\OneDrive\Desktop\PROGRAMS\4th_SEM\python\2b.py
+C:\Users\asus\OneDrive\Desktop\PROGRAMS\4th_SEM\python\7a.py
+C:\Users\asus\OneDrive\Desktop\PROGRAMS\4th_SEM\python\6a\6a.py
+C:\Users\asus\OneDrive\Desktop\PROGRAMS\4th_SEM\python\6a\6b.py
+C:\Users\asus\OneDrive\Desktop\PROGRAMS\4th_SEM\python\6a\input.txt
+C:\Users\asus\OneDrive\Desktop\PROGRAMS\4th_SEM\python\6a\output.txt
